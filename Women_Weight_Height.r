@@ -27,7 +27,7 @@ View(result)
 
 getwd()
 
-setwd("D:\\vivek\\AMMA 2017\\Data")
+setwd("D:\\prerna\\AMMA\\Data")
 
 input_popcity.df<-read.csv("Population city data.csv",header=T)
 View(input_popcity.df)
